@@ -3,18 +3,18 @@
 #
 
 # Name of your site (displayed in the header)
-name: "lemon's blog"
+name: "viktorlin233's blog"
 # Short bio or description (displayed in the header)
-description: "个人技术公众号：程序员柠檬  分享编程资源 | 学习路线"
+description: "Fork from lemonchann.github.io 人生漫漫，朝花夕拾。记录一个我与代码从零开始的故事。"
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/lemonchann/images/raw/master/gzh/%E6%96%87%E6%9C%AB%E6%8E%A8%E5%B9%BF%E6%96%87%E6%A1%88.png
+avatar: https://github.com/viktorlin233/viktorlin233.github.io/raw/master/images/9db298e71667265d04020513287c7d94_512_512.png
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://github.com/lemonchann/lemonchann.github.io/raw/master/images/favicon.ico
+favicon: https://github.com/viktorlin233/viktorlin233.github.io/raw/master/images/favicon.ico
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
@@ -39,11 +39,11 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
-  email: llong87@163.com
+  zhihu: 小小鸟
+  email: 745015880@qq.com
   facebook:
   flickr:
-  github: lemonchann 
+  github: viktorlin233 
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin:
@@ -63,17 +63,17 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID: bd65d5c0df878155b7fa
-  clientSecret: d0220762c05c2d6b6f6152a0f0e4b6b090de9729
-  repo: lemonchann.github.io
-  owner: lemonchann
+  clientID: 12f22476d9eb13f5303d
+  clientSecret: 43df1f51c73f2c664d6ea85f730f235b7334e623
+  repo: viktorlin233.github.io
+  owner: viktorlin233
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://lemonchann.github.io
+url: https://viktorlin233.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
